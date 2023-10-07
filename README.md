@@ -8,4 +8,4 @@
 ## css
 ### 1.[弹幕](https://github.com/SLLME/small-knowledge-blog/issues/4)
 ## http
-### 1..[https工作原理](https://github.com/SLLME/small-knowledge-blog/issues/7)
+### 1.[https工作原理](https://github.com/SLLME/small-knowledge-blog/issues/8)
